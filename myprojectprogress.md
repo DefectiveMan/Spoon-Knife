@@ -1,0 +1,1 @@
+I know some more details about the project I want to make. I am sure I want to make an Android app. It will be a life/ activity tracker. Think myfitnesspal, but more general. I intend to use Android Studio to handle most of the project, which thankfully already has github integration. 
